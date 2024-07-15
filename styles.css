@@ -9,7 +9,7 @@ h1{
 }
 
 a {
-    color: rgb(72, 160, 168); /* or any color you prefer */
+    color: rgb(95, 106, 186); /* or any color you prefer */
     text-decoration: none; /* removes underline */
 }
 
@@ -20,6 +20,7 @@ a:hover {
 
 a:visited {
     color: rgb(222, 17, 106); /* color changes for visited links */
+    text-decoration: none;
 }
 
 a:active {
