@@ -5,5 +5,24 @@ body{
 }
 
 h1{
-    color:#007bff;
+    color:#0b53a1;
+}
+
+a {
+    color: rgb(72, 160, 168); /* or any color you prefer */
+    text-decoration: none; /* removes underline */
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: aquamarine;
+}
+
+a:visited {
+    color: rgb(222, 17, 106); /* color changes for visited links */
+}
+
+a:active {
+    color: rgb(102, 0, 255); /* color changes during clicking */
+    
 }
